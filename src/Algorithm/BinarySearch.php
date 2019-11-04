@@ -71,4 +71,8 @@ class BinarySearch
         }
 
     }
+
+    public static function hello(){
+        return ['Hello World!'];
+    }
 }
